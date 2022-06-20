@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**linakovalchuk/linakovalchuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**ponceres/ponceres** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img height="170em" align="left" alt="Github Lnguages" src="https://github-readme-codewars-stats.herokuapp.com/api/?username=linakovalchuk&card&colormode=dark_mode" />
+<img height="170em" align="left" alt="Github Lnguages" src="https://github-readme-codewars-stats.herokuapp.com/api/?username=ponceres&card&colormode=dark_mode" />
